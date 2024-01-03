@@ -8,7 +8,6 @@ In this data science and machine learning project, we classify sports personalit
 Here is the folder structure,
 * server: Python flask server
 * model: Contains python notebook for model building
-* images_dataset: Dataset used for our model training
 
 Technologies used in this project,
 1. Python
